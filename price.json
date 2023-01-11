@@ -1,5 +1,4 @@
-<html>
-<body>
-	<pre>{ "price: 30, "rent": 35 мин }</pre>
-</body>
-</html>
+{
+    "price": 25,
+    "rent": 5000
+  }
